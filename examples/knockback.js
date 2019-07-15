@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 
 const bot = mineflayer.createBot({
-    version: 1.12,
+    version: 1.8,
     host: 'ip-address',
     username: 'email',
     password: 'password',
